@@ -64,6 +64,8 @@ posts.md
 *.cleaned.*
 *.bak
 .env.*
+!.env.example
+!.env.production.example
 *.env
 credentials.json
 *.pem
